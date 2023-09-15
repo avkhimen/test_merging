@@ -1,1 +1,1 @@
-# example utils file
+# example of utils.py executable
