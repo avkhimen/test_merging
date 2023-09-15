@@ -1,2 +1,1 @@
-# example util files
-import os
+# example of utils.py executable
